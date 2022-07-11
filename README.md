@@ -1,4 +1,4 @@
-## Hey there! I'm zrsaber.
+## Hey there! I'm Runqi.
 
 ### 👨🏻‍💻  About Me
 
