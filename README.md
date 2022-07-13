@@ -17,13 +17,13 @@
 - 🔧  [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) [![RStudio](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) [![Eclipse](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 - 🖥  [![Illustrator](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=runqi-zhao&theme=react-dark)](https://github.com/runqi-zhao)
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=runqi-zhao&theme=blue-green)](https://github.com/zrsaber)
-
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=runqi-zhao&layout=compact&exclude_repo=zrsaber.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=bule-gree)](https://github.com/zrsaber)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=runqi-zhao&theme=blue-green)](https://github.com/runqi-zhao)[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=runqi-zhao&layout=compact&exclude_repo=zrsaber.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=bule-gree)](https://github.com/runqi-zhao)
 
 ### 🤝🏻  Connect with Me
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blog-delta-three-87.vercel.app/)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:z529978097@gmail.com)
+
+
 
