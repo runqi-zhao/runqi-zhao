@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **career planning**
 
-- 📝 I regularly write articles on [https://www.runqi.live](https://www.runqi.live/)
+- 📝 I regularly write articles on [my website](https://www.runqizhao.cn/)
 
 - 📫 How to reach me: zhaorunqi07@gmail.com
 
