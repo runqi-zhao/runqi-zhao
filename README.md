@@ -1,43 +1,58 @@
-<h1 align="center">Hi 👋, I'm Runqi</h1>
-<h3 align="center">MSc student</h3>
+### Hi there ,I`m Runqi-Zhao!!👋
 
-- 🔭 I’m currently working on **improving my cooking skills**
+#### 👷 Check out what I'm currently working on
 
-- 🌱 I’m currently learning **Cloud & k8s**
+- [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (2 days ago)
+- [runqi-zhao/blog](https://github.com/runqi-zhao/blog) -  (3 days ago)
+- [apache/shenyu-website](https://github.com/apache/shenyu-website) - Apache ShenYu website. (3 weeks ago)
 
-- 🤝 I’m looking for help with **career planning**
+#### 🌱 My latest projects
 
-- 📝 I regularly write articles on [my website](https://www.runqizhao.cn/)
+- [runqi-zhao/blog](https://github.com/runqi-zhao/blog) - 
+- [runqi-zhao/mail2list](https://github.com/runqi-zhao/mail2list) - 基于rust开发的邮箱列表服务
+- [runqi-zhao/crossview_localisation](https://github.com/runqi-zhao/crossview_localisation) - 在CVM-net的基础上进行添加测试代码
+- [runqi-zhao/vue-flask-ocr](https://github.com/runqi-zhao/vue-flask-ocr) - CTPN&#43;CRNN神经网络进行文字识别，并采用B/S架构进行页面展示
 
-- 📫 How to reach me: zhaorunqi07@gmail.com
+#### 🔭 Latest releases I've contributed to
 
-## 💻 Environment
+- [apache/shenyu](https://github.com/apache/shenyu) ([v2.6.0](https://github.com/apache/shenyu/releases/tag/v2.6.0), 2 months ago) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 
-- 💻  [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white.svg)](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- 🌐  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) [![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)
-- 🛢   [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://camo.githubusercontent.com/bd16a09c0ea9b0b7ee8766d187db73f61d5ec35a3c5499119b4d3003c1ee546a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333333333333f7374796c653d666c6174266c6f676f3d6d7973716c) [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-- ⚙️  [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-- 🔧  [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) [![RStudio](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) [![Eclipse](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-- 🖥  [![Illustrator](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+#### 🔨 My recent Pull Requests
 
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+- [[type:refactor]:Set the maximum time to wait for the k8s cluster to start up](https://github.com/apache/shenyu/pull/5220) on [apache/shenyu](https://github.com/apache/shenyu) (3 days ago)
+- [[future:init]:init ingress controller brpc](https://github.com/apache/shenyu/pull/5204) on [apache/shenyu](https://github.com/apache/shenyu) (5 days ago)
+- [[fix:bug]:merge k8s-ingress-controller into a yaml file](https://github.com/apache/shenyu/pull/5179) on [apache/shenyu](https://github.com/apache/shenyu) (3 weeks ago)
+- [update doc for shenyu kubernetes controller](https://github.com/apache/shenyu-website/pull/979) on [apache/shenyu-website](https://github.com/apache/shenyu-website) (3 weeks ago)
+- [[feat: unit-test] Add unit test for Ingress Reconciler](https://github.com/apache/shenyu/pull/5169) on [apache/shenyu](https://github.com/apache/shenyu) (3 weeks ago)
+- [[type:feature] init context path plugin shenyu ingress controller](https://github.com/apache/shenyu/pull/5167) on [apache/shenyu](https://github.com/apache/shenyu) (4 weeks ago)
+- [[type:Integration Test]: add ingress-controller integration alibaba dubbo test](https://github.com/apache/shenyu/pull/5165) on [apache/shenyu](https://github.com/apache/shenyu) (4 weeks ago)
+- [add ingress-controller integration websocket test](https://github.com/apache/shenyu/pull/5160) on [apache/shenyu](https://github.com/apache/shenyu) (1 month ago)
+- [add ingress-controller integration apache dubbo test](https://github.com/apache/shenyu/pull/5154) on [apache/shenyu](https://github.com/apache/shenyu) (1 month ago)
+- [add ingress-controller integration motan test](https://github.com/apache/shenyu/pull/5148) on [apache/shenyu](https://github.com/apache/shenyu) (1 month ago)
 
-## 📈 Stats
 
-<table>
-<tbody>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://activity-graph.herokuapp.com/graph?username=runqi-zhao&theme=xcode" alt="GitHub activity" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <img src="https://github-profile-trophy.vercel.app/?username=runqi-zhao&theme=onedark&no-frame=true&row=2&column=3" alt="Trophy" />
-    </td>
-    <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=runqi-zhao&count_private=true&show_icons=true&theme=material-palenight" alt="Github stats" />
-    </td>
-  </tr>
-</tbody>
-</table>
+#### 📓 Gists I wrote
+
+
+#### ⭐ Recent Stars
+
+- [facebookresearch/brainmagick](https://github.com/facebookresearch/brainmagick) - Training and evaluation pipeline for MEG and EEG brain signal encoding and decoding using deep learning. Code for our paper &#34;Decoding speech perception from non-invasive brain recordings&#34; published in Nature Machine Intelligence, 2023. (5 days ago)
+- [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。 (1 week ago)
+- [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - An open source visual route tracking CLI tool (1 week ago)
+- [rpcxio/rpcx-examples](https://github.com/rpcxio/rpcx-examples) - examples for the latest rpcx (2 weeks ago)
+- [apache/shenyu-wasm](https://github.com/apache/shenyu-wasm) - Apache ShenYu WASM SDK for java. (2 weeks ago)
+- [apache/dubbo](https://github.com/apache/dubbo) - The java implementation of Apache Dubbo. An RPC and microservice framework. (3 weeks ago)
+- [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents (4 weeks ago)
+- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers (1 month ago)
+- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (1 month ago)
+- [jbwang1997/OBBDetection](https://github.com/jbwang1997/OBBDetection) - OBBDetection is an oriented object detection library, which is based on MMdetection. (1 month ago)
+
+#### ❤️ These awesome people sponsor me (thank you!)
+
+
+#### 👯 Check out some of my recent followers
+
+- [hheez](https://github.com/hheez)
+- [smhhyyz](https://github.com/smhhyyz)
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
