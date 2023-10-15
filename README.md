@@ -14,6 +14,7 @@
 
 ### 🔨 My recent Pull Requests
 
+- [[type:fix]: fix spring cloud ingress controller bug](https://github.com/apache/shenyu/pull/5227) on [apache/shenyu](https://github.com/apache/shenyu) (today)
 - [[type:refactor]:Set the maximum time to wait for the k8s cluster to start up](https://github.com/apache/shenyu/pull/5220) on [apache/shenyu](https://github.com/apache/shenyu) (3 days ago)
 - [[future:init]:init ingress controller brpc](https://github.com/apache/shenyu/pull/5204) on [apache/shenyu](https://github.com/apache/shenyu) (5 days ago)
 - [[fix:bug]:merge k8s-ingress-controller into a yaml file](https://github.com/apache/shenyu/pull/5179) on [apache/shenyu](https://github.com/apache/shenyu) (3 weeks ago)
@@ -23,7 +24,6 @@
 - [[type:Integration Test]: add ingress-controller integration alibaba dubbo test](https://github.com/apache/shenyu/pull/5165) on [apache/shenyu](https://github.com/apache/shenyu) (4 weeks ago)
 - [add ingress-controller integration websocket test](https://github.com/apache/shenyu/pull/5160) on [apache/shenyu](https://github.com/apache/shenyu) (1 month ago)
 - [add ingress-controller integration apache dubbo test](https://github.com/apache/shenyu/pull/5154) on [apache/shenyu](https://github.com/apache/shenyu) (1 month ago)
-- [add ingress-controller integration motan test](https://github.com/apache/shenyu/pull/5148) on [apache/shenyu](https://github.com/apache/shenyu) (1 month ago)
 
 
 ### 📕 Latest Blog Posts
