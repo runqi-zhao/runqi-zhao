@@ -20,7 +20,7 @@
 
 
 ### 📕 Latest Blog Posts
-{{range rss "https://runqizhao.cn/index.xml" 5}}
+{{range rss "https://runqizhao.cn/index.xml" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
