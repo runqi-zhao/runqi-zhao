@@ -1,44 +1,27 @@
-### Hi there ,I`m Runqi-Zhao!!👋
+<h1 align="center">Hi 👋, I'm Runqi</h1>
+<h3 align="center">MSc student</h3>
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+- 🔭 I’m currently working on **improving my cooking skills**
+- 🌱 I’m currently learning **GateWay & Cloud**
+- 🤝 I’m looking for help with **career planning**
+- 📝 I regularly write articles on [my website](https://www.runqizhao.cn/)
+- 📫 How to reach me: zhaorunqi07@gmail.com
 
-#### 🌱 My latest projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
 
-#### 🔭 Latest releases I've contributed to
+### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 🔨 My recent Pull Requests
+### 🔨 My recent Pull Requests
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 
-#### 📓 Gists I wrote
+### 📓 Gists I wrote
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### ⭐ Recent Stars
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
 {{- end}}
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
