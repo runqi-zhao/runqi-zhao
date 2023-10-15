@@ -5,13 +5,10 @@
 - [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (2 days ago)
 - [runqi-zhao/blog](https://github.com/runqi-zhao/blog) -  (3 days ago)
 - [apache/shenyu-website](https://github.com/apache/shenyu-website) - Apache ShenYu website. (3 weeks ago)
-- [runqi-zhao/mmrotate](https://github.com/runqi-zhao/mmrotate) - 自己实验的添加 方便与服务器间的传输 (3 months ago)
 
 #### 🌱 My latest projects
 
 - [runqi-zhao/blog](https://github.com/runqi-zhao/blog) - 
-- [runqi-zhao/mmrotate](https://github.com/runqi-zhao/mmrotate) - 自己实验的添加 方便与服务器间的传输
-- [runqi-zhao/cloud-study](https://github.com/runqi-zhao/cloud-study) - 学习spring-cloud之代码记录，笔记在个人博客
 - [runqi-zhao/mail2list](https://github.com/runqi-zhao/mail2list) - 基于rust开发的邮箱列表服务
 - [runqi-zhao/crossview_localisation](https://github.com/runqi-zhao/crossview_localisation) - 在CVM-net的基础上进行添加测试代码
 - [runqi-zhao/vue-flask-ocr](https://github.com/runqi-zhao/vue-flask-ocr) - CTPN&#43;CRNN神经网络进行文字识别，并采用B/S架构进行页面展示
