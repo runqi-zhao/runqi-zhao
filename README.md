@@ -14,6 +14,7 @@
 
 ### 🔨 My recent Pull Requests
 
+- [[type:feat]:init ingress controller grpc](https://github.com/apache/shenyu/pull/5253) on [apache/shenyu](https://github.com/apache/shenyu) (today)
 - [[type:feat]:init ingress controller grpc](https://github.com/apache/shenyu/pull/5240) on [apache/shenyu](https://github.com/apache/shenyu) (6 days ago)
 - [fix:fix hrsc xml path error](https://github.com/open-mmlab/mmrotate/pull/953) on [open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate) (1 week ago)
 - [[type:fix]: fix spring cloud ingress controller bug](https://github.com/apache/shenyu/pull/5227) on [apache/shenyu](https://github.com/apache/shenyu) (1 week ago)
@@ -23,7 +24,6 @@
 - [update doc for shenyu kubernetes controller](https://github.com/apache/shenyu-website/pull/979) on [apache/shenyu-website](https://github.com/apache/shenyu-website) (1 month ago)
 - [[feat: unit-test] Add unit test for Ingress Reconciler](https://github.com/apache/shenyu/pull/5169) on [apache/shenyu](https://github.com/apache/shenyu) (1 month ago)
 - [[type:feature] init context path plugin shenyu ingress controller](https://github.com/apache/shenyu/pull/5167) on [apache/shenyu](https://github.com/apache/shenyu) (1 month ago)
-- [[type:Integration Test]: add ingress-controller integration alibaba dubbo test](https://github.com/apache/shenyu/pull/5165) on [apache/shenyu](https://github.com/apache/shenyu) (1 month ago)
 
 
 ### 📕 Latest Blog Posts
