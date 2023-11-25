@@ -28,7 +28,7 @@
 
 ### 📕 Latest Blog Posts
 
-- [Threadlocal](https://runqizhao.cn/p/threadlocal/) (1 month ago)
+- [Threadlocal](https://runqizhao.cn/p/threadlocal/) (2 months ago)
 - [服务同步](https://runqizhao.cn/p/%E6%9C%8D%E5%8A%A1%E5%90%8C%E6%AD%A5/) (2 months ago)
 - [服务调用](https://runqizhao.cn/p/%E6%9C%8D%E5%8A%A1%E8%B0%83%E7%94%A8/) (2 months ago)
 - [Redis八股](https://runqizhao.cn/p/redis%E5%85%AB%E8%82%A1/) (2 months ago)
