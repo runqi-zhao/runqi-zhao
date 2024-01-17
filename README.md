@@ -10,7 +10,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [apache/shenyu](https://github.com/apache/shenyu) ([v2.6.0](https://github.com/apache/shenyu/releases/tag/v2.6.0), 5 months ago) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
+- [apache/shenyu](https://github.com/apache/shenyu) ([v2.6.1](https://github.com/apache/shenyu/releases/tag/v2.6.1), today) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 
 ### 🔨 My recent Pull Requests
 
