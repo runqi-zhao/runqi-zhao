@@ -10,11 +10,11 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [apache/shenyu](https://github.com/apache/shenyu) ([v2.6.1](https://github.com/apache/shenyu/releases/tag/v2.6.1), 5 days ago) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
+- [apache/shenyu](https://github.com/apache/shenyu) ([v2.6.1](https://github.com/apache/shenyu/releases/tag/v2.6.1), 6 days ago) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 
 ### 🔨 My recent Pull Requests
 
-- [[type:feat]:init ingress controller sofa](https://github.com/apache/shenyu/pull/5253) on [apache/shenyu](https://github.com/apache/shenyu) (2 months ago)
+- [[type:feat]:init ingress controller sofa](https://github.com/apache/shenyu/pull/5253) on [apache/shenyu](https://github.com/apache/shenyu) (3 months ago)
 - [[type:feat]:init ingress controller grpc](https://github.com/apache/shenyu/pull/5240) on [apache/shenyu](https://github.com/apache/shenyu) (3 months ago)
 - [fix:fix hrsc xml path error](https://github.com/open-mmlab/mmrotate/pull/953) on [open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate) (3 months ago)
 - [[type:fix]: fix spring cloud ingress controller bug](https://github.com/apache/shenyu/pull/5227) on [apache/shenyu](https://github.com/apache/shenyu) (3 months ago)
