@@ -10,7 +10,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [apache/shenyu](https://github.com/apache/shenyu) ([v2.6.1](https://github.com/apache/shenyu/releases/tag/v2.6.1), 2 weeks ago) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
+- [apache/shenyu](https://github.com/apache/shenyu) ([v2.6.1](https://github.com/apache/shenyu/releases/tag/v2.6.1), 3 weeks ago) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 
 ### 🔨 My recent Pull Requests
 
@@ -19,7 +19,7 @@
 - [fix:fix hrsc xml path error](https://github.com/open-mmlab/mmrotate/pull/953) on [open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate) (3 months ago)
 - [[type:fix]: fix spring cloud ingress controller bug](https://github.com/apache/shenyu/pull/5227) on [apache/shenyu](https://github.com/apache/shenyu) (3 months ago)
 - [[type:refactor]:Set the maximum time to wait for the k8s cluster to start up](https://github.com/apache/shenyu/pull/5220) on [apache/shenyu](https://github.com/apache/shenyu) (3 months ago)
-- [[future:init]:init ingress controller brpc](https://github.com/apache/shenyu/pull/5204) on [apache/shenyu](https://github.com/apache/shenyu) (3 months ago)
+- [[future:init]:init ingress controller brpc](https://github.com/apache/shenyu/pull/5204) on [apache/shenyu](https://github.com/apache/shenyu) (4 months ago)
 - [[fix:bug]:merge k8s-ingress-controller into a yaml file](https://github.com/apache/shenyu/pull/5179) on [apache/shenyu](https://github.com/apache/shenyu) (4 months ago)
 - [update doc for shenyu kubernetes controller](https://github.com/apache/shenyu-website/pull/979) on [apache/shenyu-website](https://github.com/apache/shenyu-website) (4 months ago)
 - [[feat: unit-test] Add unit test for Ingress Reconciler](https://github.com/apache/shenyu/pull/5169) on [apache/shenyu](https://github.com/apache/shenyu) (4 months ago)
