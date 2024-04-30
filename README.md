@@ -28,6 +28,7 @@
 
 ### 📕 Latest Blog Posts
 
+- [分布式ID](https://runqizhao.cn/p/%E5%88%86%E5%B8%83%E5%BC%8Fid/) (today)
 - [服务同步-hhtp长轮询](https://runqizhao.cn/p/%E6%9C%8D%E5%8A%A1%E5%90%8C%E6%AD%A5-hhtp%E9%95%BF%E8%BD%AE%E8%AF%A2/) (1 day ago)
 - [Conv2d的简单理解](https://runqizhao.cn/p/conv2d%E7%9A%84%E7%AE%80%E5%8D%95%E7%90%86%E8%A7%A3/) (4 months ago)
 - [e2cnn 内容理解-R2Conv 详解](https://runqizhao.cn/p/e2cnn-%E5%86%85%E5%AE%B9%E7%90%86%E8%A7%A3-r2conv-%E8%AF%A6%E8%A7%A3/) (4 months ago)
@@ -37,6 +38,5 @@
 - [Threadlocal](https://runqizhao.cn/p/threadlocal/) (7 months ago)
 - [服务同步](https://runqizhao.cn/p/%E6%9C%8D%E5%8A%A1%E5%90%8C%E6%AD%A5/) (7 months ago)
 - [服务调用](https://runqizhao.cn/p/%E6%9C%8D%E5%8A%A1%E8%B0%83%E7%94%A8/) (7 months ago)
-- [Redis八股](https://runqizhao.cn/p/redis%E5%85%AB%E8%82%A1/) (7 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
