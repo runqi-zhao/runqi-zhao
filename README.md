@@ -19,7 +19,7 @@
 - [fix:fix hrsc xml path error](https://github.com/open-mmlab/mmrotate/pull/953) on [open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate) (6 months ago)
 - [[type:fix]: fix spring cloud ingress controller bug](https://github.com/apache/shenyu/pull/5227) on [apache/shenyu](https://github.com/apache/shenyu) (6 months ago)
 - [[type:refactor]:Set the maximum time to wait for the k8s cluster to start up](https://github.com/apache/shenyu/pull/5220) on [apache/shenyu](https://github.com/apache/shenyu) (6 months ago)
-- [[future:init]:init ingress controller brpc](https://github.com/apache/shenyu/pull/5204) on [apache/shenyu](https://github.com/apache/shenyu) (6 months ago)
+- [[future:init]:init ingress controller brpc](https://github.com/apache/shenyu/pull/5204) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
 - [[fix:bug]:merge k8s-ingress-controller into a yaml file](https://github.com/apache/shenyu/pull/5179) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
 - [update doc for shenyu kubernetes controller](https://github.com/apache/shenyu-website/pull/979) on [apache/shenyu-website](https://github.com/apache/shenyu-website) (7 months ago)
 - [[feat: unit-test] Add unit test for Ingress Reconciler](https://github.com/apache/shenyu/pull/5169) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
@@ -28,7 +28,7 @@
 
 ### 📕 Latest Blog Posts
 
-- [分布式ID](https://runqizhao.cn/p/%E5%88%86%E5%B8%83%E5%BC%8Fid/) (6 days ago)
+- [分布式ID](https://runqizhao.cn/p/%E5%88%86%E5%B8%83%E5%BC%8Fid/) (1 week ago)
 - [服务同步-hhtp长轮询](https://runqizhao.cn/p/%E6%9C%8D%E5%8A%A1%E5%90%8C%E6%AD%A5-hhtp%E9%95%BF%E8%BD%AE%E8%AF%A2/) (1 week ago)
 - [Conv2d的简单理解](https://runqizhao.cn/p/conv2d%E7%9A%84%E7%AE%80%E5%8D%95%E7%90%86%E8%A7%A3/) (5 months ago)
 - [e2cnn 内容理解-R2Conv 详解](https://runqizhao.cn/p/e2cnn-%E5%86%85%E5%AE%B9%E7%90%86%E8%A7%A3-r2conv-%E8%AF%A6%E8%A7%A3/) (5 months ago)
