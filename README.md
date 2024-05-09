@@ -18,7 +18,7 @@
 - [[type:feat]:init ingress controller grpc](https://github.com/apache/shenyu/pull/5240) on [apache/shenyu](https://github.com/apache/shenyu) (6 months ago)
 - [fix:fix hrsc xml path error](https://github.com/open-mmlab/mmrotate/pull/953) on [open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate) (6 months ago)
 - [[type:fix]: fix spring cloud ingress controller bug](https://github.com/apache/shenyu/pull/5227) on [apache/shenyu](https://github.com/apache/shenyu) (6 months ago)
-- [[type:refactor]:Set the maximum time to wait for the k8s cluster to start up](https://github.com/apache/shenyu/pull/5220) on [apache/shenyu](https://github.com/apache/shenyu) (6 months ago)
+- [[type:refactor]:Set the maximum time to wait for the k8s cluster to start up](https://github.com/apache/shenyu/pull/5220) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
 - [[future:init]:init ingress controller brpc](https://github.com/apache/shenyu/pull/5204) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
 - [[fix:bug]:merge k8s-ingress-controller into a yaml file](https://github.com/apache/shenyu/pull/5179) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
 - [update doc for shenyu kubernetes controller](https://github.com/apache/shenyu-website/pull/979) on [apache/shenyu-website](https://github.com/apache/shenyu-website) (7 months ago)
