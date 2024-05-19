@@ -20,7 +20,7 @@
 - [[type:fix]: fix spring cloud ingress controller bug](https://github.com/apache/shenyu/pull/5227) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
 - [[type:refactor]:Set the maximum time to wait for the k8s cluster to start up](https://github.com/apache/shenyu/pull/5220) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
 - [[future:init]:init ingress controller brpc](https://github.com/apache/shenyu/pull/5204) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
-- [[fix:bug]:merge k8s-ingress-controller into a yaml file](https://github.com/apache/shenyu/pull/5179) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
+- [[fix:bug]:merge k8s-ingress-controller into a yaml file](https://github.com/apache/shenyu/pull/5179) on [apache/shenyu](https://github.com/apache/shenyu) (8 months ago)
 - [update doc for shenyu kubernetes controller](https://github.com/apache/shenyu-website/pull/979) on [apache/shenyu-website](https://github.com/apache/shenyu-website) (8 months ago)
 - [[feat: unit-test] Add unit test for Ingress Reconciler](https://github.com/apache/shenyu/pull/5169) on [apache/shenyu](https://github.com/apache/shenyu) (8 months ago)
 - [[type:feature] init context path plugin shenyu ingress controller](https://github.com/apache/shenyu/pull/5167) on [apache/shenyu](https://github.com/apache/shenyu) (8 months ago)
@@ -28,7 +28,7 @@
 
 ### 📕 Latest Blog Posts
 
-- [认证与鉴权](https://runqizhao.cn/p/%E8%AE%A4%E8%AF%81%E4%B8%8E%E9%89%B4%E6%9D%83/) (6 days ago)
+- [认证与鉴权](https://runqizhao.cn/p/%E8%AE%A4%E8%AF%81%E4%B8%8E%E9%89%B4%E6%9D%83/) (1 week ago)
 - [CDN详解](https://runqizhao.cn/p/cdn%E8%AF%A6%E8%A7%A3/) (1 week ago)
 - [分布式ID](https://runqizhao.cn/p/%E5%88%86%E5%B8%83%E5%BC%8Fid/) (2 weeks ago)
 - [服务同步-hhtp长轮询](https://runqizhao.cn/p/%E6%9C%8D%E5%8A%A1%E5%90%8C%E6%AD%A5-hhtp%E9%95%BF%E8%BD%AE%E8%AF%A2/) (2 weeks ago)
