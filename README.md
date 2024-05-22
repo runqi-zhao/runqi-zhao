@@ -14,7 +14,7 @@
 
 ### 🔨 My recent Pull Requests
 
-- [[type:feat]:init ingress controller sofa](https://github.com/apache/shenyu/pull/5253) on [apache/shenyu](https://github.com/apache/shenyu) (6 months ago)
+- [[type:feat]:init ingress controller sofa](https://github.com/apache/shenyu/pull/5253) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
 - [[type:feat]:init ingress controller grpc](https://github.com/apache/shenyu/pull/5240) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
 - [fix:fix hrsc xml path error](https://github.com/open-mmlab/mmrotate/pull/953) on [open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate) (7 months ago)
 - [[type:fix]: fix spring cloud ingress controller bug](https://github.com/apache/shenyu/pull/5227) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
