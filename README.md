@@ -17,7 +17,7 @@
 - [[type:feat]:init ingress controller sofa](https://github.com/apache/shenyu/pull/5253) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
 - [[type:feat]:init ingress controller grpc](https://github.com/apache/shenyu/pull/5240) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
 - [fix:fix hrsc xml path error](https://github.com/open-mmlab/mmrotate/pull/953) on [open-mmlab/mmrotate](https://github.com/open-mmlab/mmrotate) (7 months ago)
-- [[type:fix]: fix spring cloud ingress controller bug](https://github.com/apache/shenyu/pull/5227) on [apache/shenyu](https://github.com/apache/shenyu) (7 months ago)
+- [[type:fix]: fix spring cloud ingress controller bug](https://github.com/apache/shenyu/pull/5227) on [apache/shenyu](https://github.com/apache/shenyu) (8 months ago)
 - [[type:refactor]:Set the maximum time to wait for the k8s cluster to start up](https://github.com/apache/shenyu/pull/5220) on [apache/shenyu](https://github.com/apache/shenyu) (8 months ago)
 - [[future:init]:init ingress controller brpc](https://github.com/apache/shenyu/pull/5204) on [apache/shenyu](https://github.com/apache/shenyu) (8 months ago)
 - [[fix:bug]:merge k8s-ingress-controller into a yaml file](https://github.com/apache/shenyu/pull/5179) on [apache/shenyu](https://github.com/apache/shenyu) (8 months ago)
@@ -28,7 +28,7 @@
 
 ### 📕 Latest Blog Posts
 
-- [认证与鉴权](https://runqizhao.cn/p/%E8%AE%A4%E8%AF%81%E4%B8%8E%E9%89%B4%E6%9D%83/) (4 weeks ago)
+- [认证与鉴权](https://runqizhao.cn/p/%E8%AE%A4%E8%AF%81%E4%B8%8E%E9%89%B4%E6%9D%83/) (1 month ago)
 - [CDN详解](https://runqizhao.cn/p/cdn%E8%AF%A6%E8%A7%A3/) (1 month ago)
 - [分布式ID](https://runqizhao.cn/p/%E5%88%86%E5%B8%83%E5%BC%8Fid/) (1 month ago)
 - [服务同步-hhtp长轮询](https://runqizhao.cn/p/%E6%9C%8D%E5%8A%A1%E5%90%8C%E6%AD%A5-hhtp%E9%95%BF%E8%BD%AE%E8%AF%A2/) (1 month ago)
